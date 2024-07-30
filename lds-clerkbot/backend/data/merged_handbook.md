@@ -84,93 +84,15 @@ Parents and leaders strive to be good examples to children. They encourage child
 ChildrenandYouth.ChurchofJesusChrist.org
 
 ##### 12.2.1.2 Gospel Learning
-Primary leaders and teachers encourage children and their families to learn the gospel at home. These leaders and teachers study the gospel and share with the children what they learn. They invite children to share at church what they are learning at home. Sunday Primary meetings help children fulfill the purposes of Primary (see 12.1.1). A member of the Primary presidency conducts the opening. The music leader conducts singing time. Primary teachers teach children during classes.
-Primary meetings for children ages 3–11 are held every Sunday for 50 minutes while adults and youth attend their classes. The schedule is as follows:
-Part of Meeting
-Length
-Part of Meeting
-
-
-
-
-Opening (prayer, scripture or Article of Faith, and talk—all given by children)
-
-
-
-
-Length
-
-
-
-
-5 minutes
-
-
-
-
-Part of Meeting
-
-
-
-
-Singing time
-
-
-
-
-Length
-
-
-
-
-20 minutes
-
-
-
-
-Part of Meeting
-
-
-
-
-Transition to classes
-
-
-
-
-Length
-
-
-
-
-5 minutes
-
-
-
-
-Part of Meeting
-
-
-
-
-Classes and closing prayer
-
-
-
-
-Length
-
-
-
-
-20 minutes
-
-
-
-
- 
- 
- In wards with many children, Primary leaders may divide children into two groups. One group is in classes while the other group is in singing time. Then the two groups change places. Leaders adjust the time as needed.
+Primary leaders and teachers encourage children and their families to learn the gospel at home. These leaders and teachers study the gospel and share with the children what they learn. They invite children to share at church what they are learning at home. Sunday Primary meetings help children fulfill the purposes of Primary (see 12.1.1). A member of the Primary presidency conducts the opening. The music leader conducts singing time. Primary teachers teach children during classes. Primary meetings for children ages 3–11 are held every Sunday for 50 minutes while adults and youth attend their classes. The schedule is as follows:
+|Part of Meeting|Length|
+|---------------|------|
+|Opening (prayer, scripture or Article of Faith, and talk—all given by children)|5 minutes|
+|Singing time|20 minutes|
+|Transition to classes|5 minutes|
+|Classes and closing prayer|20 minutes|
+
+In wards with many children, Primary leaders may divide children into two groups. One group is in classes while the other group is in singing time. Then the two groups change places. Leaders adjust the time as needed.
 
 
 Nursery for children ages 18 months to 3 years lasts 50 minutes. 
