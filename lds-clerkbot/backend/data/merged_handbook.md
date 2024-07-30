@@ -28,6 +28,7 @@ Nursery lasts the entire time scheduled for Primary. For more information, see 1
 #### 12.1.4 Image icon, guidelines for adaptation Classes
 Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the Come, Follow Me curriculum. On fifth Sundays, teachers are encouraged to use “Preparing Children for a Lifetime on God’s Covenant Path.”
 Primary classes are organized by age and the number of teachers available. Units with fewer children or teachers may combine two or more age-groups into one class. In larger units, Primary leaders may form more than one class for an age group and more than one nursery. When there are enough children, they are divided into classes based on their age on December 31 of the previous year, as shown on the following chart:
+
 |Age on December 31 of the Previous Year|Class on January 1|
 |-----------------------------------------|----------------|
 |2|Nursery (children join nursery at 18 months)|
@@ -39,6 +40,7 @@ Primary classes are organized by age and the number of teachers available. Units
 |8|Valiant 8|
 |9|Valiant 9|
 |10|Valiant 10|
+
 Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a certificate of advancement. These certificates may be generated in Leader and Clerk Resources.
 In some circumstances, an 11-year-old may not be ready to leave Primary. The bishop, parents, and child counsel together about the timing.
 Children may not complete Primary before January of the year they turn 12. Nor may young men be ordained deacons before that time.
