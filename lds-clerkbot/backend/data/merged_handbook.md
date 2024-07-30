@@ -1,1347 +1,91 @@
 # General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
 
+## 12. Primary
 
-
-
-
-
-
-
-
-General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Authenticating...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-Handbooks and Callings
- 
- 
-General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
-Contents
-Title Page
-Summary of Recent Updates
-0. Introductory Overview
- 
- 
-Doctrinal Foundation
-1. God’s Plan and Your Role in His Work of Salvation and Exaltation
- 
- 
-2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation
- 
- 
-3. Priesthood Principles
- 
- 
-4. Leadership and Councils in the Church of Jesus Christ
- 
- 
-Church Organization
-5. General and Area Leadership
- 
- 
-6. Stake Leadership
- 
- 
-7. The Bishopric
- 
- 
-8. Elders Quorum
- 
- 
-9. Relief Society
- 
- 
-10. Aaronic Priesthood Quorums
- 
- 
-11. Young Women
- 
- 
-12. Primary
- 
- 
-13. Sunday School
- 
- 
-14. Single Members
- 
- 
-15. Seminaries and Institutes of Religion
- 
- 
-God’s Work of Salvation and Exaltation
-Living the Gospel of Jesus Christ
-16. Living the Gospel of Jesus Christ
-17. Teaching the Gospel
- 
- 
-18. Performing Priesthood Ordinances and Blessings
- 
- 
-19. Music
- 
- 
-20. Activities
- 
- 
-Caring for Those in Need
-21. Ministering
- 
- 
-22. Providing for Temporal Needs and Building Self-Reliance
- 
- 
-Inviting All to Receive the Gospel
-23. Sharing the Gospel and Strengthening New and Returning Members
- 
- 
-24. Missionary Recommendations and Service
- 
- 
-Uniting Families for Eternity
-25. Temple and Family History Work in the Ward and Stake
- 
- 
-26. Temple Recommends
- 
- 
-27. Temple Ordinances for the Living
- 
- 
-28. Temple Ordinances for the Deceased
- 
- 
-Church Administration
-29. Meetings in the Church
- 
- 
-30. Callings in the Church
- 
- 
-31. Interviews and Other Meetings with Members
- 
- 
-32. Repentance and Church Membership Councils
- 
- 
-33. Records and Reports
- 
- 
-34. Finances and Audits
- 
- 
-35. Care and Use of Meetinghouses
- 
- 
-36. Creating, Changing, and Naming New Units
- 
- 
-37. Specialized Stakes, Wards, and Branches
- 
- 
-38. Church Policies and Guidelines
- 
- 
- 
- 
-General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-May 2024
-
-
-General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
-
-
-
-
-
-
-
-
-Published by
-
-
-The Church of Jesus Christ of Latter-day Saints
-
-
-Salt Lake City, Utah
-
-
-
-
-
-
-© 2020, 2024 by Intellectual Reserve, Inc.
-
-
-All rights reserved.
-
-
-Version: 
-2/24
-
-
-PD60010241 000
-
-
-
-
- 
- 
- 
- 
-Print
- 
- 
-Include highlights and underlines
-Sign in to use
-Include footnotes
-Cancel
-Print
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 12. Primary
-
-
-
-
-
-
-
-
-
-12. Primary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Authenticating...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-Handbooks and Callings
- 
- 
-General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
-Contents
-Title Page
-Summary of Recent Updates
-0. Introductory Overview
- 
- 
-Doctrinal Foundation
-1. God’s Plan and Your Role in His Work of Salvation and Exaltation
- 
- 
-2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation
- 
- 
-3. Priesthood Principles
- 
- 
-4. Leadership and Councils in the Church of Jesus Christ
- 
- 
-Church Organization
-5. General and Area Leadership
- 
- 
-6. Stake Leadership
- 
- 
-7. The Bishopric
- 
- 
-8. Elders Quorum
- 
- 
-9. Relief Society
- 
- 
-10. Aaronic Priesthood Quorums
- 
- 
-11. Young Women
- 
- 
-12. Primary
- 
- 
-12.1. Purpose and Organization
- 
- 
-12.1. Purpose and Organization
-12.1.1. Purposes
-12.1.2. Primary Theme
-12.1.3. Nursery
-12.1.4. Classes
-12.1.5. Singing Time
-12.1.6. Children’s Sacrament Meeting Presentation
-12.1.7. Temple and Priesthood Preparation Meeting
-12.2. Participating in God’s Work of Salvation and Exaltation
- 
- 
-12.3. Ward Primary Leadership
- 
- 
-12.4. Stake Primary Leaders
-12.5. Additional Guidelines and Policies
- 
- 
-13. Sunday School
- 
- 
-14. Single Members
- 
- 
-15. Seminaries and Institutes of Religion
- 
- 
-God’s Work of Salvation and Exaltation
-Living the Gospel of Jesus Christ
-16. Living the Gospel of Jesus Christ
-17. Teaching the Gospel
- 
- 
-18. Performing Priesthood Ordinances and Blessings
- 
- 
-19. Music
- 
- 
-20. Activities
- 
- 
-Caring for Those in Need
-21. Ministering
- 
- 
-22. Providing for Temporal Needs and Building Self-Reliance
- 
- 
-Inviting All to Receive the Gospel
-23. Sharing the Gospel and Strengthening New and Returning Members
- 
- 
-24. Missionary Recommendations and Service
- 
- 
-Uniting Families for Eternity
-25. Temple and Family History Work in the Ward and Stake
- 
- 
-26. Temple Recommends
- 
- 
-27. Temple Ordinances for the Living
- 
- 
-28. Temple Ordinances for the Deceased
- 
- 
-Church Administration
-29. Meetings in the Church
- 
- 
-30. Callings in the Church
- 
- 
-31. Interviews and Other Meetings with Members
- 
- 
-32. Repentance and Church Membership Councils
- 
- 
-33. Records and Reports
- 
- 
-34. Finances and Audits
- 
- 
-35. Care and Use of Meetinghouses
- 
- 
-36. Creating, Changing, and Naming New Units
- 
- 
-37. Specialized Stakes, Wards, and Branches
- 
- 
-38. Church Policies and Guidelines
- 
- 
- 
- 
-12. Primary
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-“12. Primary,” 
-General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
- (2024).
-
-
-“12. Primary,” 
-General Handbook
-.
-
-
-
-
- 
- 
-Image
-family holding scriptures
-
-
-12.
-
-
-Primary
-
-
-
-
-
-
-
-
-
-
-12.1
-
-
-Purpose and Organization
-
-
-
-
+### 12.1 Purpose and Organization
 The Primary organization helps God’s children prepare to return to His presence. As they embrace the gospel of Jesus Christ, they will “be steadfast and immovable, always abounding in good works” (
 Mosiah 5:15
-).
 
-
-
-
-
-
-12.1.1
-
-
-Purposes
-
-
-
-
+#### 12.1.1 Purposes
 Primary helps children:
-
-
-
-
-
-
 Feel their Heavenly Father’s love and learn about His plan of happiness.
-
-
-
-
-
-
 Learn about Jesus Christ and His role in Heavenly Father’s plan.
-
-
-
-
-
-
 Learn and live the gospel of Jesus Christ.
-
-
-
-
-
-
 Feel, recognize, and act on the influence of the Holy Ghost.
-
-
-
-
-
-
 Prepare for, make, and keep sacred covenants.
-
-
-
-
-
-
 Participate in God’s work of salvation and exaltation.
 
-
-
-
-
-
-
-
-
-
-
-
-12.1.2
-
-
-Primary Theme
-
-
-
-
+#### 12.1.2 Primary Theme
 The Primary theme is a reminder of the blessings of serving in Primary:
+“All thy children shall be taught of the Lord, and great shall be the peace of thy children” (Isaiah 54:13; 3 Nephi 22:13).
 
-
-“All thy children shall be taught of the Lord; and great shall be the peace of thy children” (
-Isaiah 54:13
-; 
-3 Nephi 22:13
-).
-
-
-
-
-
-
-
-
-12.1.3
-
-
-Nursery
-
-
-
-
+#### 12.1.3 Nursery
 Nursery helps children 18 months to 3 years feel Heavenly Father’s love and learn about His plan of happiness.
-
-
 Nursery leaders love, teach, and minister to the children. They also ensure their safety and well-being.
-
-
 At least two people should be called for each nursery class. If the nursery leaders are not husband and wife, they should be the same gender.
-
-
-Nursery lasts the entire time scheduled for Primary. For more information, see 
-12.1.4
- and 
-12.3.5
-.
-
-
-
-
-
-
-
-
-12.1.4
-
-
-Image
-icon, guidelines for adaptation
- Classes
-
-
-
-
-Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the 
-Come, Follow Me
- curriculum. On fifth Sundays, teachers are encouraged to use “
-Preparing Children for a Lifetime on God’s Covenant Path
-.”
-
-
-Primary classes are organized by age and the number of teachers available. Units with fewer children or teachers may combine two or more age-groups into one class. In larger units, Primary leaders may form more than one class for an age-group and more than one nursery.
-
-
-When there are enough children, they are divided into classes based on their age on December 31 of the previous year, as shown on the following chart:
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-Class on January 1
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-2
-
-
-
-
-Class on January 1
-
-
-
-
-Nursery (children join nursery at 18 months)
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-3
-
-
-
-
-Class on January 1
-
-
-
-
-Sunbeam
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-4
-
-
-
-
-Class on January 1
-
-
-
-
-CTR 4
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-5
-
-
-
-
-Class on January 1
-
-
-
-
-CTR 5
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-6
-
-
-
-
-Class on January 1
-
-
-
-
-CTR 6
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-7
-
-
-
-
-Class on January 1
-
-
-
-
-CTR 7
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-8
-
-
-
-
-Class on January 1
-
-
-
-
-Valiant 8
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-9
-
-
-
-
-Class on January 1
-
-
-
-
-Valiant 9
-
-
-
-
-Age on December 31 of the Previous Year
-
-
-
-
-10
-
-
-
-
-Class on January 1
-
-
-
-
-Valiant 10
-
-
-
-
-Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a 
-certificate of advancement
-. These certificates may be generated in Leader and Clerk Resources.
-
-
+Nursery lasts the entire time scheduled for Primary. For more information, see 12.1.4 and 12.3.5
+
+#### 12.1.4 Image icon, guidelines for adaptation Classes
+Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the Come, Follow Me curriculum. On fifth Sundays, teachers are encouraged to use “Preparing Children for a Lifetime on God’s Covenant Path.”
+Primary classes are organized by age and the number of teachers available. Units with fewer children or teachers may combine two or more age-groups into one class. In larger units, Primary leaders may form more than one class for an age group and more than one nursery. When there are enough children, they are divided into classes based on their age on December 31 of the previous year, as shown on the following chart:
+|Age on December 31 of the Previous Year|Class on January 1|
+|-----------------------------------------|----------------|
+|2|Nursery (children join nursery at 18 months)|
+|3|Sunbeam|
+|4|CTR 4|
+|5|CTR 5|
+|6|CTR 6|
+|7|CTR 7|
+|8|Valiant 8|
+|9|Valiant 9|
+|10|Valiant 10|
+Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a certificate of advancement. These certificates may be generated in Leader and Clerk Resources.
 In some circumstances, an 11-year-old may not be ready to leave Primary. The bishop, parents, and child counsel together about the timing.
-
-
 Children may not complete Primary before January of the year they turn 12. Nor may young men be ordained deacons before that time.
 
+#### 12.1.5 Singing Time
+Singing time helps children feel Heavenly Father’s love and learn about His plan of happiness. As children sing about gospel principles, the Holy Ghost testifies of their truthfulness. The words and music will stay in the children’s minds and hearts throughout their lives. Singing time is different from class time. During singing time, children learn as they actively engage in singing. Primary music leaders teach gospel principles, but they do so primarily through music. The Primary presidency and music leader select songs for each month to reinforce gospel principles the children are learning in their classes and at home. Songs that reinforce these principles are also suggested in Come, Follow Me. For more information, see “Instructions for Singing Time and the Children’s Sacrament Meeting Presentation.” See also 12.1.6 and 12.3.4 in this handbook.
 
+#### 12.1.6 Children’s Sacrament Meeting Presentation
+The annual children’s sacrament meeting presentation is held during the last few months of the year. The children present what they have learned at home and at church during the year. They help the congregation focus on Heavenly Father, the Savior, and Their teachings. The Primary presidency and music leader prayerfully plan the presentation. The bishopric gives direction. Children may sing, give talks, and share stories, scriptures, or testimonies.
+The presentation may take all or part of the meeting time after the sacrament. Units with few children may invite children’s family members to participate. Because of the sacredness of sacrament meeting, the presentation should not include visuals, costumes, or media presentations.
+For more information, see “Instructions for Singing Time and the Children’s Sacrament Meeting Presentation” in Come, Follow Me.
 
-
-
-
-
-
-12.1.5
-
-
-Singing Time
-
-
-
-
-Singing time helps children feel Heavenly Father’s love and learn about His plan of happiness. As children sing about gospel principles, the Holy Ghost testifies of their truthfulness. The words and music will stay in the children’s minds and hearts throughout their lives.
-
-
-Singing time is different from class time. During singing time, children learn as they actively engage in singing. Primary music leaders teach gospel principles, but they do so primarily through music.
-
-
-The Primary presidency and music leader select songs for each month to reinforce gospel principles the children are learning in their classes and at home. Songs that reinforce these principles are also suggested in 
-Come, Follow Me
-.
-
-
- 
- 
-Image
-children singing
-
-
-For more information, see “
-Instructions for Singing Time and the Children’s Sacrament Meeting Presentation
-.” See also 
-12.1.6
- and 
-12.3.4
- in this handbook.
-
-
-
-
-
-
-
-
-12.1.6
-
-
-Children’s Sacrament Meeting Presentation
-
-
-
-
-The annual children’s sacrament meeting presentation is held during the last few months of the year. The children present what they have learned at home and at church during the year. They help the congregation focus on Heavenly Father, the Savior, and Their teachings.
-
-
-The Primary presidency and music leader prayerfully plan the presentation. The bishopric gives direction. Children may sing, give talks, and share stories, scriptures, or testimonies.
-
-
- 
- 
- The presentation may take all or part of the meeting time after the sacrament. Units with few children may invite children’s family members to participate.
-
-
-Because of the sacredness of sacrament meeting, the presentation should not include visuals, costumes, or media presentations.
-
-
-For more information, see “
-Instructions for Singing Time and the Children’s Sacrament Meeting Presentation
-” in 
-Come, Follow Me
-.
-
-
-
-
-
-
-
-
-12.1.7
-
-
-Temple and Priesthood Preparation Meeting
-
-
-
-
+#### 12.1.7 Temple and Priesthood Preparation Meeting
 Parents have the primary responsibility to teach their children about the temple and the priesthood. To support them, the Primary presidency plans a Temple and Priesthood Preparation meeting each year. The bishopric gives direction. The meeting is for children in the Valiant 10 class. Parents are invited. This meeting has the following purposes:
-
-
-
-
-
-
 Help children understand priesthood purposes, responsibilities, and blessings.
-
-
-
-
-
-
 Help children participate in temple and family history work and prepare to make and keep sacred covenants.
-
-
-
-
-
-
 Help boys prepare to receive the Aaronic Priesthood.
-
-
-
-
-
-
 Help children prepare to receive a temple recommend.
+The meeting may be held during Primary on Sunday, at another time on Sunday, or at a different time. A member of the bishopric conducts. At least one member of the Primary presidency attends. If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake meet together.
+For more information, see Temple and Priesthood Preparation on ChurchofJesusChrist.org
 
-
-
-
-
-
-The meeting may be held during Primary on Sunday, at another time on Sunday, or at a different time. A member of the bishopric conducts. At least one member of the Primary presidency attends.
-
-
- 
- 
- If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake meet together.
-
-
-For more information, see 
-Temple and Priesthood Preparation
- on 
-ChurchofJesusChrist.org
-.
-
-
-
-
-
-
-
-
-
-
-12.2
-
-
-Participating in God’s Work of Salvation and Exaltation
-
-
-
-
+### 12.2 Participating in God’s Work of Salvation and Exaltation
 God invites all to come unto Christ and assist in His work by:
-
-
-
-
-
-
 Living the gospel of Jesus Christ.
-
-
-
-
-
-
 Caring for those in need.
-
-
-
-
-
-
 Inviting all to receive the gospel.
-
-
-
-
-
-
 Uniting families for eternity.
+Primary helps children, families, leaders, and teachers participate in this work. For more information about God’s work of salvation and exaltation, study chapter 1.
 
+#### 12.2.1 Living the Gospel of Jesus Christ
 
-
-
-
-
-Primary helps children, families, leaders, and teachers participate in this work. For more information about God’s work of salvation and exaltation, study 
-chapter 1
-.
-
-
-
-
-
-
-12.2.1
-
-
-Living the Gospel of Jesus Christ
-
-
-
-
-
-
-
-
-12.2.1.1
-
-
-Roles of Parents and Leaders
-
-
-
-
-Parents are responsible to teach their children the gospel and help them live it (see 
-Doctrine and Covenants 68:25–28
-). Primary leaders and teachers support parents in this responsibility as follows:
-
-
-
-
-
-
+##### 12.2.1.1 Roles of Parents and Leaders
+Parents are responsible to teach their children the gospel and help them live it (see Doctrine and Covenants 68:25–28). Primary leaders and teachers support parents in this responsibility as follows:
 Ensure that Primary lessons, singing time, and service and activities help children follow the example of the Savior.
-
-
-
-
-
-
 Help children prepare for baptism and confirmation.
-
-
-
-
-
-
 Help boys prepare for priesthood ordination.
-
-
-
-
-
-
 Help children prepare to receive a temple recommend and temple ordinances.
-
-
-
-
-
-
 Teach children about the blessings of sharing the gospel, including full-time missionary service.
-
-
-
-
-
-
 Leaders should be sensitive to children who lack family support for gospel living.
-
-
 Parents and leaders strive to be good examples to children. They encourage children in their efforts to become more like Jesus Christ. The Children and Youth program is a resource to help children ages 8–11 (see 
 ChildrenandYouth.ChurchofJesusChrist.org
-).
 
-
- 
- 
-Image
-boy and man sawing wood
-
-
-
-
-
-
-
-
-12.2.1.2
-
-
-Gospel Learning
-
-
-
-
-Primary leaders and teachers encourage children and their families to learn the gospel at home. These leaders and teachers study the gospel and share with the children what they learn. They invite children to share at church what they are learning at home.
-
-
-Sunday Primary meetings help children fulfill the purposes of Primary (see 
-12.1.1
-). A member of the Primary presidency conducts the opening. The music leader conducts singing time. Primary teachers teach children during classes.
-
-
+##### 12.2.1.2 Gospel Learning
+Primary leaders and teachers encourage children and their families to learn the gospel at home. These leaders and teachers study the gospel and share with the children what they learn. They invite children to share at church what they are learning at home. Sunday Primary meetings help children fulfill the purposes of Primary (see 12.1.1). A member of the Primary presidency conducts the opening. The music leader conducts singing time. Primary teachers teach children during classes.
 Primary meetings for children ages 3–11 are held every Sunday for 50 minutes while adults and youth attend their classes. The schedule is as follows:
-
-
-
-
 Part of Meeting
-
-
-
-
 Length
-
-
-
-
 Part of Meeting
 
 
@@ -77841,21 +76585,7 @@ The bishop and stake president submit written notification that the person:
 
 Has admitted to or has been convicted of a crime involving one of the actions listed above.
 
-
-
-
-
-
 Has been found liable in a civil action of fraud or other illegal acts involving one of the actions listed above.
-
-
-
-
-
-
-
-
-
 
 When a bishop receives an annotated membership record, he follows the instructions in the annotation.
 
@@ -77866,31 +76596,14 @@ LCR
 6.2.3
 ). The Office of the First Presidency notifies him if the recommendation is approved or not.
 
-
-
-
-
-
-
-
 32.14.6
 
 
 Reporting Theft of Church Funds
 
 
-
-
 If a person’s membership is restricted or withdrawn for embezzling Church funds, the bishop or stake president reports it as outlined in 
 34.7.5
-.
-
-
-
-
-
-
-
 
 32.14.7
 
@@ -78521,18 +77234,6 @@ May not wear the temple garment or receive any kind of temple recommend until th
 ).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 32.17.2
 
 
@@ -78561,186 +77262,11 @@ If the First Presidency approves the restoration of blessings, they assign a Gen
 
 For information about membership records and the restoration of blessings, see 
 32.14.4
-.
-
-
-
-
-
-
- 
- 
- 
- 
-Print
- 
- 
-Include highlights and underlines
-Sign in to use
-Include footnotes
-Cancel
-Print
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 1. God’s Plan and Your Role in His Work of Salvation and Exaltation
 
-
-
-
-
-
-
-
-
 1. God’s Plan and Your Role in His Work of Salvation and Exaltation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Authenticating...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
 Handbooks and Callings
  
  
@@ -78879,30 +77405,7 @@ Church Administration
  
 38. Church Policies and Guidelines
  
- 
- 
- 
-1. God’s Plan and Your Role in His Work of Salvation and Exaltation
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1. God’s Plan and Your Role in His Work of Salvation and Exaltation 
 “1. God’s Plan and Your Role in His Work of Salvation and Exaltation,” 
 General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
  (2024).
@@ -78950,34 +77453,11 @@ This handbook will help you learn principles of Christlike service and understan
 
 
 
-
-
-
 God’s plan of happiness.
-
-
-
-
-
 
 God’s work of salvation and exaltation.
 
-
-
-
-
-
 The purpose of The Church of Jesus Christ of Latter-day Saints.
-
-
-
-
-
-
-
-
-
-
 
 
 1.1
@@ -78993,357 +77473,108 @@ Moses 1:39
 ). Immortality is to live forever with a resurrected physical body. Eternal life, or exaltation, is to become like God and live in His presence eternally as families.
 
 
-
-
-
-
 God’s Work and Glory
-
-
-
 
 “For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man” (
 Moses 1:39
 ).
 
 
-
-
 Jesus Christ is central to God’s plan. Because of Heavenly Father’s infinite love for us, He sent His Son to redeem us from sin and death through His atoning sacrifice (see 
 John 3:16
 ). Through His Atonement, Jesus Christ ensures that each of us born on earth will be resurrected and gain immortality.
 
-
 To receive eternal life, we must “come unto Christ” (
 Moroni 10:32
 ). The Savior’s Atonement makes it possible for us to be cleansed from sin and have our hearts changed so we can receive eternal life and a fulness of joy. Heavenly Father wants all of His children to choose to return to Him.
-
-
-
-
-
-
-
 
 1.2
 
 
 God’s Work of Salvation and Exaltation
 
-
-
-
 As we come unto Christ and help others do the same, we participate in God’s work of salvation and exaltation. This work is guided by the two great commandments to love God and to love our neighbors (see 
 Matthew 22:37–39
 ).
-
-
 God’s work of salvation and exaltation focuses on four divinely appointed responsibilities. These are outlined below.
 
-
-
-
-
-
 God’s Work of Salvation and Exaltation
-
-
-
-
 We come unto Christ and assist in God’s work by:
-
-
-
-
-
-
 Living the gospel of Jesus Christ.
-
-
-
-
-
-
 Caring for those in need.
 
-
-
-
-
-
 Inviting all to receive the gospel.
-
-
-
-
-
-
 Uniting families for eternity.
-
-
-
-
-
-
-
-
 This handbook will help you understand these four aspects of God’s work.
-
-
-
-
-
-
 1.2.1
 
-
 Living the Gospel of Jesus Christ
-
-
-
-
 Living the gospel of Jesus Christ includes:
-
-
-
-
-
-
 Exercising faith in Christ, repenting daily, making covenants with God as we receive the ordinances of salvation and exaltation, and enduring to the end by keeping those covenants (see 
 3.5.1
 ).
-
-
-
-
-
-
 Learning and teaching the gospel of Jesus Christ at home and at church.
-
-
-
-
-
-
 Becoming self-reliant in providing for ourselves and our families, both spiritually and temporally.
-
-
-
-
-
-
- 
- 
+  
 Image
 sister missionaries teaching woman
-
-
-
-
-
-
-
 
 1.2.2
 
 
 Caring for Those in Need
 
-
-
-
 Caring for those in need includes:
 
-
-
-
-
-
 Serving and ministering to individuals, families, and communities.
-
-
-
-
-
-
 Sharing resources, including Church assistance, with those in need.
 
-
-
-
-
-
 Helping others become self-reliant.
-
-
-
-
-
-
-
-
-
-
-
 
 1.2.3
 
 
 Inviting All to Receive the Gospel
 
-
-
-
 Inviting all to receive the gospel includes:
-
-
-
-
-
-
 Participating in missionary work and serving as missionaries.
-
-
-
-
-
-
 Helping new and returning Church members progress along the covenant path.
-
-
-
-
-
-
-
-
-
-
-
 
 1.2.4
 
 
 Uniting Families for Eternity
 
-
-
-
 Uniting families for eternity includes:
 
-
-
-
-
-
 Making covenants as we receive our own temple ordinances.
-
-
-
-
-
-
 Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God.
 
-
-
-
-
-
 Going to the temple regularly, where possible, to worship God and perform ordinances for His children.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1.3
 
 
 The Purpose of the Church
-
-
-
-
 Jesus Christ established His Church to enable individuals and families to assist God in fulfilling His work of salvation and exaltation (see 
 Ephesians 4:11–13
 ; see also 
 2.2
  in this handbook). To help accomplish this divine purpose, the Church and its leaders provide:
 
-
-
-
-
-
 Priesthood authority and keys.
 
-
-
-
-
-
-Covenants and ordinances.
-
-
-
-
-
-
+Covenants and ordinances
 Prophetic direction.
 
-
-
-
-
-
 Scriptures.
-
-
-
-
-
-
 Gospel learning and teaching support.
-
-
-
-
-
-
 Service and leadership opportunities.
-
-
-
-
-
-
 A community of Saints.
-
-
-
-
-
-
-
-
-
-
 1.3.1
 
 
 Priesthood Authority and Keys
-
-
-
 
 Through the priesthood, God accomplishes His work of salvation and exaltation. The priesthood authority and keys needed to direct God’s work on earth were restored to the Prophet Joseph Smith (see 
 Doctrine and Covenants 110:11–16
@@ -79354,22 +77585,10 @@ Doctrine and Covenants 110:11–16
  in this handbook). These keys are held by Church leaders today. These leaders call and authorize others to assist in God’s work (see 
 Doctrine and Covenants 107:8, 65–67
 ).
-
-
-
-
-
-
-
-
 1.3.2
 
 
 Covenants and Ordinances
-
-
-
-
 In Heavenly Father’s plan, we make covenants as we receive the ordinances of salvation and exaltation, such as baptism (see 
 John 3:5
 ; see also 
@@ -79378,21 +77597,10 @@ chapter 18
 Doctrine and Covenants 84:19–22
 ).
 
-
-
-
-
-
-
-
 1.3.3
 
 
 Prophetic Direction
-
-
-
-
 Through His chosen prophets, God reveals truth and provides inspired guidance and warnings (see 
 Amos 3:7
 ; 
@@ -79400,31 +77608,14 @@ Doctrine and Covenants 1:4
 ). This guidance helps us enter and remain on the path leading to eternal life.
 
 
-
-
-
-
-
-
 1.3.4
 
 
 Scriptures
-
-
-
-
 Under the direction of the Lord’s prophets and apostles, the Church provides and preserves the word of God as found in the holy scriptures. The scriptures testify of Christ, teach His gospel, and help us exercise faith in Him (see 
 Jacob 7:10–11
 ; 
 Helaman 15:7
-).
-
-
-
-
-
-
 
 
 1.3.5
@@ -79440,39 +77631,17 @@ Doctrine and Covenants 88:77–78, 118
 ; see also 
 2.2.3
  in this handbook).
-
-
-
-
-
-
-
-
 1.3.6
 
 
 Service and Leadership Opportunities
-
-
-
-
 Through callings and assignments in the Church, God gives members opportunities to serve and lead. The Church provides structure to help care for members in need and to give humanitarian relief to others (see 
 Mosiah 18:27–29
 ).
 
-
-
-
-
-
-
-
 1.3.7
 
-
 A Community of Saints
-
-
 
 
 As a community of Saints, Church members gather regularly to worship God and to remember the Savior by partaking of the sacrament (see 
@@ -79482,29 +77651,14 @@ Doctrine and Covenants 20:77
 ). Members also care for and minister to one another (see 
 Ephesians 2:19
 ).
-
-
-
-
- 
  
 Image
 temple, Tijuana Mexico
-
-
-
-
-
-
-
 
 1.4
 
 
 Your Role in God’s Work
-
-
-
 
 As a leader in the Church, you are called to teach and support those you serve as they assist God in His work of salvation and exaltation (see 
 1.2
@@ -79515,77 +77669,4 @@ Prayerfully seek to know how you can help bring about God’s purposes in the li
 2 Nephi 32:5
 ). Laboring with the Lord in His vineyard will bring you great joy (see 
 Jacob 5:70–72
-).
-
-
-
-
- 
- 
- 
- 
-Print
- 
- 
-Include highlights and underlines
-Sign in to use
-Include footnotes
-Cancel
-Print
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+)
