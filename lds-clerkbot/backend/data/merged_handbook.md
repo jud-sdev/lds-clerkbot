@@ -542,93 +542,16 @@ Before a child is blessed, a clerk uses Leader and Clerk Resources (LCR) to prep
 The name on the membership record and certificate should match the birth certificate, civil birth registry, or current legal name.
 
 ### 18.7 Baptism
+Baptism by immersion in water by one having authority is necessary for a person to become a member of the Church and receive the Holy Ghost. All who seek exaltation must follow the example of the Savior by receiving these ordinances. (See Matthew 3:13–17; John 3:3–7; Acts 2:37–38; 2 Nephi 31:5–21.) For information about baptism in special circumstances, see 38.2.8.
 
+#### 18.7.1 Approval for a Person to Be Baptized and Confirmed
 
-
-
-Baptism by immersion in water by one having authority is necessary for a person to become a member of the Church and receive the Holy Ghost. All who seek exaltation must follow the example of the Savior by receiving these ordinances. (See 
-Matthew 3:13–17
-; 
-John 3:3–7
-; 
-Acts 2:37–38
-; 
-2 Nephi 31:5–21
-.)
-
-
-For information about baptism in special circumstances, see 
-38.2.8
-.
-
-
- 
- 
-Image
-boy being baptized
-
-
-
-
-
-
-18.7.1
-
-
-Approval for a Person to Be Baptized and Confirmed
-
-
-
-
-
-
-
-
-18.7.1.1
-
-
-Children Who Are Members of Record
-
-
-
-
-The bishop holds the priesthood keys for baptizing 8-year-old members of record in a ward. These children should be baptized and confirmed on or as soon after their 8th birthday as is reasonable (see 
-Doctrine and Covenants 68:27
-). These are children for whom Church membership records already exist (see 
-33.6.2
-). When they reach age 8, the bishop makes sure they have every opportunity to accept the gospel and be baptized and confirmed.
-
-
-For information about baptizing and confirming a person who has an intellectual disability, see 
-38.2.4
- and 
-38.2.8.1
-.
-
-
-The bishop or an assigned counselor interviews children of record for baptism and confirmation. Instructions are in 
-31.2.3.1
-.
-
-
-For information about filling out the Baptism and Confirmation Record, see 
-18.8.3
-.
-
-
+##### 18.7.1.1 Children Who Are Members of Record
+The bishop holds the priesthood keys for baptizing 8-year-old members of record in a ward. These children should be baptized and confirmed on or as soon after their 8th birthday as is reasonable (see Doctrine and Covenants 68:27). These are children for whom Church membership records already exist (see 33.6.2). When they reach age 8, the bishop makes sure they have every opportunity to accept the gospel and be baptized and confirmed. For information about baptizing and confirming a person who has an intellectual disability, see 38.2.4 and 38.2.8.1.
+The bishop or an assigned counselor interviews children of record for baptism and confirmation. Instructions are in 31.2.3.1. For information about filling out the Baptism and Confirmation Record, see 18.8.3.
 Bishops give special attention to 7-year-old children in the ward, ensuring that their parents, their Primary leaders and teachers, and those who minister to their families help them prepare for baptism and confirmation. Elders quorum and Relief Society leaders also encourage parents to prepare their children for these ordinances.
 
-
-
-
-
-
-
-
-18.7.1.2
-
-
-Converts
+##### 18.7.1.2 Converts
 
 
 
