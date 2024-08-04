@@ -16,6 +16,15 @@ python-dotenv = "^1.0.0"
 aiostream = "^0.5.2"
 llama-index = "0.10.55"
 cachetools = "^5.3.3"
+llama-index-embeddings-mistralai = "^0.1.4"
+llama-index-llms-mistralai = "^0.1.18"
+llama-index-embeddings-gemini = "^0.1.8"
+llama-index-llms-gemini = "^0.1.11"
+groq = "^0.9.0"
+transformers = "^4.43.3"
+llama-index-embeddings-huggingface = "^0.2.2"
+tf-keras = "^2.17.0"
+ipykernel = "^6.29.5"
 
 [tool.poetry.dependencies.uvicorn]
 extras = [ "standard" ]
@@ -29,6 +38,10 @@ version = "^0.8"
 
 [tool.poetry.dependencies.llama-index-agent-openai]
 version = "0.2.6"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = [ "poetry-core" ]
