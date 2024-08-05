@@ -29,6 +29,8 @@ rise = "^5.7.1"
 notebook = "^7.2.1"
 jupyterlab = "^4.2.4"
 jupyter-contrib-nbextensions = "^0.7.0"
+nbconvert = "^7.16.4"
+voila = "^0.5.7"
 
 [tool.poetry.dependencies.uvicorn]
 extras = [ "standard" ]

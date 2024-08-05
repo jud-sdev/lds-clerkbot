@@ -6441,6 +6441,32 @@ docs = ["Sphinx (>=4.1.2,<4.2.0)", "sphinx-rtd-theme (>=0.5.2,<0.6.0)", "sphinxc
 test = ["Cython (>=0.29.36,<0.30.0)", "aiohttp (==3.9.0b0)", "aiohttp (>=3.8.1)", "flake8 (>=5.0,<6.0)", "mypy (>=0.800)", "psutil", "pyOpenSSL (>=23.0.0,<23.1.0)", "pycodestyle (>=2.9.0,<2.10.0)"]
 
 [[package]]
+name = "voila"
+version = "0.5.7"
+description = "Voilà turns Jupyter notebooks into standalone web applications"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "voila-0.5.7-py3-none-any.whl", hash = "sha256:b87f3cb29262729832f4a954a9a79e3f79ff0d008093014c395ce2f409f04bc6"},
+    {file = "voila-0.5.7.tar.gz", hash = "sha256:1aa1a3aef73cc30a9ea4217f13a64269c1cc9185edbf10c2db820fa4ff29525f"},
+]
+
+[package.dependencies]
+jupyter-client = ">=7.4.4,<9"
+jupyter-core = ">=4.11.0"
+jupyter-server = ">=2.0.0,<3"
+jupyterlab-server = ">=2.3.0,<3"
+nbclient = ">=0.4.0"
+nbconvert = ">=6.4.5,<8"
+traitlets = ">=5.0.3,<6"
+websockets = ">=9.0"
+
+[package.extras]
+dev = ["black", "hatch", "jupyter-releaser", "pre-commit"]
+docs = ["myst-parser", "pydata-sphinx-theme", "sphinx", "sphinx-autobuild", "sphinxcontrib-video"]
+test = ["ipykernel", "ipywidgets", "matplotlib", "mock", "numpy", "pandas", "papermill", "pytest", "pytest-tornasync"]
+
+[[package]]
 name = "watchfiles"
 version = "0.22.0"
 description = "Simple, modern and high performance file watching and code reload in python."
@@ -6892,4 +6918,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11,<3.12"
-content-hash = "a23070e41b07b0f2a65a26e9cd966d8ca4a64c54187334f9ff3811cd7ed8370a"
+content-hash = "2f3f6bc7762f6894b98f1938bb99197338cdb6e05ffedeab77fcf02fc8b40c29"
