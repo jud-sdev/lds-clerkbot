@@ -15,8 +15,8 @@ This project uses Retrieval-Augmented Generation (RAG) to answer questions posed
 #### 1. Clone the repository:
 
 ```python
-git clone https://github.com/yourusername/rag-lds-clerks.git
-cd rag-lds-clerks
+git clone https://github.com/jud-sdev/lds-clerkbot.git
+cd lds-clerkbot
 ```
 
 #### 2. Install dependencies using Poetry:
