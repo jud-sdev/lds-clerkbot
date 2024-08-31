@@ -15,10 +15,10 @@ export default function Header() {
           <span>Hi there! Ask me any question about the clerk of the Church of Jesus Christ of Latter-Day Saints</span>
           <Image
             className="rounded-xl"
-            src="/llama.png"
-            alt="Llama Logo"
-            width={40}
-            height={40}
+            src="/lds.png"
+            alt="clerk-logo"
+            width={140}
+            height={140}
             priority
           />
         </a>
