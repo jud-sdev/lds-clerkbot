@@ -1,5 +1,5 @@
 import { Loader2 } from "lucide-react";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import { Button } from "../button";
 import ChatActions from "./chat-actions";
@@ -13,7 +13,9 @@ export default function ChatMessages(
     "messages" | "isLoading" | "reload" | "stop" | "append"
   >,
 ) {
-  const { starterQuestions } = useClientConfig();
+  const { backend } = useClientConfig();
+  const [starterQuestions, setStarterQuestions] = useState<string[]>();
+
   const scrollableChatContainerRef = useRef<HTMLDivElement>(null);
   const messageLength = props.messages.length;
   const lastMessage = props.messages[messageLength - 1];
@@ -40,6 +42,19 @@ export default function ChatMessages(
     scrollToBottom();
   }, [messageLength, lastMessage]);
 
+  useEffect(() => {
+    if (!starterQuestions) {
+      fetch(`${backend}/api/chat/config`)
+        .then((response) => response.json())
+        .then((data) => {
+          if (data?.starterQuestions) {
+            setStarterQuestions(data.starterQuestions);
+          }
+        })
+        .catch((error) => console.error("Error fetching config", error));
+    }
+  }, [starterQuestions, backend]);
+
   return (
     <div
       className="flex-1 w-full rounded-xl bg-white p-4 shadow-xl relative overflow-y-auto"
@@ -53,6 +68,8 @@ export default function ChatMessages(
               key={m.id}
               chatMessage={m}
               isLoading={isLoadingMessage}
+              append={props.append!}
+              isLastMessage={i === messageLength - 1}
             />
           );
         })}

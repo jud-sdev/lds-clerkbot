@@ -11,6 +11,7 @@ export enum MessageAnnotationType {
   SOURCES = "sources",
   EVENTS = "events",
   TOOLS = "tools",
+  SUGGESTED_QUESTIONS = "suggested_questions",
 }
 
 export type ImageData = {
@@ -41,7 +42,7 @@ export type SourceNode = {
   metadata: Record<string, unknown>;
   score?: number;
   text: string;
-  url?: string;
+  url: string;
 };
 
 export type SourceData = {
@@ -67,21 +68,56 @@ export type ToolData = {
   };
 };
 
+export type SuggestedQuestionsData = string[];
+
 export type AnnotationData =
   | ImageData
   | DocumentFileData
   | SourceData
   | EventData
-  | ToolData;
+  | ToolData
+  | SuggestedQuestionsData;
 
 export type MessageAnnotation = {
   type: MessageAnnotationType;
   data: AnnotationData;
 };
 
+const NODE_SCORE_THRESHOLD = 0.25;
+
 export function getAnnotationData<T extends AnnotationData>(
   annotations: MessageAnnotation[],
   type: MessageAnnotationType,
 ): T[] {
   return annotations.filter((a) => a.type === type).map((a) => a.data as T);
+}
+
+export function getSourceAnnotationData(
+  annotations: MessageAnnotation[],
+): SourceData[] {
+  const data = getAnnotationData<SourceData>(
+    annotations,
+    MessageAnnotationType.SOURCES,
+  );
+  if (data.length > 0) {
+    const sourceData = data[0] as SourceData;
+    if (sourceData.nodes) {
+      sourceData.nodes = preprocessSourceNodes(sourceData.nodes);
+    }
+  }
+  return data;
+}
+
+function preprocessSourceNodes(nodes: SourceNode[]): SourceNode[] {
+  // Filter source nodes has lower score
+  nodes = nodes
+    .filter((node) => (node.score ?? 1) > NODE_SCORE_THRESHOLD)
+    .filter((node) => node.url && node.url.trim() !== "")
+    .sort((a, b) => (b.score ?? 1) - (a.score ?? 1))
+    .map((node) => {
+      // remove trailing slash for node url if exists
+      node.url = node.url.replace(/\/$/, "");
+      return node;
+    });
+  return nodes;
 }

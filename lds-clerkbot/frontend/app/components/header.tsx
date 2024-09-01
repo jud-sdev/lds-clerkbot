@@ -12,13 +12,13 @@ export default function Header() {
           href="https://www.llamaindex.ai/"
           className="flex items-center justify-center font-nunito text-lg font-bold gap-2"
         >
-          <span>Hi there! Ask me any question about the clerk of the Church of Jesus Christ of Latter-Day Saints</span>
+          <span>Built by LlamaIndex</span>
           <Image
             className="rounded-xl"
-            src="/lds.png"
-            alt="clerk-logo"
-            width={140}
-            height={140}
+            src="/llama.png"
+            alt="Llama Logo"
+            width={40}
+            height={40}
             priority
           />
         </a>

@@ -5,10 +5,14 @@
         "./cache/**/*"
       ]
     },
-    "serverComponentsExternalPackages": [
-      "sharp",
-      "onnxruntime-node"
-    ]
+    "outputFileTracingExcludes": {
+      "/api/files/*": [
+        ".next/**/*",
+        "node_modules/**/*",
+        "public/**/*",
+        "app/**/*"
+      ]
+    }
   },
   "output": "export",
   "images": {

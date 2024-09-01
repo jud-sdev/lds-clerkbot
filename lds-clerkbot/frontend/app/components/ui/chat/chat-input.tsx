@@ -6,6 +6,7 @@ import { Input } from "../input";
 import UploadImagePreview from "../upload-image-preview";
 import { ChatHandler } from "./chat.interface";
 import { useFile } from "./hooks/use-file";
+import { LlamaCloudSelector } from "./widgets/LlamaCloudSelector";
 
 const ALLOWED_EXTENSIONS = ["png", "jpg", "jpeg", "csv", "pdf", "txt", "docx"];
 
@@ -21,7 +22,10 @@ export default function ChatInput(
     | "messages"
     | "setInput"
     | "append"
-  >,
+  > & {
+    requestParams?: any;
+    setRequestData?: React.Dispatch<any>;
+  },
 ) {
   const {
     imageUrl,
@@ -64,10 +68,11 @@ export default function ChatInput(
       return;
     }
     try {
-      await uploadFile(file);
+      await uploadFile(file, props.requestParams);
       props.onFileUpload?.(file);
     } catch (error: any) {
-      props.onFileError?.(error.message);
+      const onFileUploadError = props.onFileError || window.alert;
+      onFileUploadError(error.message);
     }
   };
 
@@ -107,6 +112,10 @@ export default function ChatInput(
             disabled: props.isLoading,
           }}
         />
+        {process.env.NEXT_PUBLIC_USE_LLAMACLOUD === "true" &&
+          props.setRequestData && (
+            <LlamaCloudSelector setRequestData={props.setRequestData} />
+          )}
         <Button type="submit" disabled={props.isLoading || !props.input.trim()}>
           Send message
         </Button>

@@ -5,20 +5,23 @@ import { Fragment } from "react";
 import { Button } from "../../button";
 import { useCopyToClipboard } from "../hooks/use-copy-to-clipboard";
 import {
+  ChatHandler,
   DocumentFileData,
   EventData,
   ImageData,
   MessageAnnotation,
   MessageAnnotationType,
-  SourceData,
+  SuggestedQuestionsData,
   ToolData,
   getAnnotationData,
+  getSourceAnnotationData,
 } from "../index";
 import ChatAvatar from "./chat-avatar";
 import { ChatEvents } from "./chat-events";
 import { ChatFiles } from "./chat-files";
 import { ChatImage } from "./chat-image";
 import { ChatSources } from "./chat-sources";
+import { SuggestedQuestions } from "./chat-suggestedQuestions";
 import ChatTools from "./chat-tools";
 import Markdown from "./markdown";
 
@@ -30,9 +33,13 @@ type ContentDisplayConfig = {
 function ChatMessageContent({
   message,
   isLoading,
+  append,
+  isLastMessage,
 }: {
   message: Message;
   isLoading: boolean;
+  append: Pick<ChatHandler, "append">["append"];
+  isLastMessage: boolean;
 }) {
   const annotations = message.annotations as MessageAnnotation[] | undefined;
   if (!annotations?.length) return <Markdown content={message.content} />;
@@ -49,13 +56,16 @@ function ChatMessageContent({
     annotations,
     MessageAnnotationType.EVENTS,
   );
-  const sourceData = getAnnotationData<SourceData>(
-    annotations,
-    MessageAnnotationType.SOURCES,
-  );
+
+  const sourceData = getSourceAnnotationData(annotations);
+
   const toolData = getAnnotationData<ToolData>(
     annotations,
     MessageAnnotationType.TOOLS,
+  );
+  const suggestedQuestionsData = getAnnotationData<SuggestedQuestionsData>(
+    annotations,
+    MessageAnnotationType.SUGGESTED_QUESTIONS,
   );
 
   const contents: ContentDisplayConfig[] = [
@@ -82,11 +92,21 @@ function ChatMessageContent({
     },
     {
       order: 0,
-      component: <Markdown content={message.content} />,
+      component: <Markdown content={message.content} sources={sourceData[0]} />,
     },
     {
       order: 3,
       component: sourceData[0] ? <ChatSources data={sourceData[0]} /> : null,
+    },
+    {
+      order: 4,
+      component: suggestedQuestionsData[0] ? (
+        <SuggestedQuestions
+          questions={suggestedQuestionsData[0]}
+          append={append}
+          isLastMessage={isLastMessage}
+        />
+      ) : null,
     },
   ];
 
@@ -104,16 +124,25 @@ function ChatMessageContent({
 export default function ChatMessage({
   chatMessage,
   isLoading,
+  append,
+  isLastMessage,
 }: {
   chatMessage: Message;
   isLoading: boolean;
+  append: Pick<ChatHandler, "append">["append"];
+  isLastMessage: boolean;
 }) {
   const { isCopied, copyToClipboard } = useCopyToClipboard({ timeout: 2000 });
   return (
     <div className="flex items-start gap-4 pr-5 pt-5">
       <ChatAvatar role={chatMessage.role} />
       <div className="group flex flex-1 justify-between gap-2">
-        <ChatMessageContent message={chatMessage} isLoading={isLoading} />
+        <ChatMessageContent
+          message={chatMessage}
+          isLoading={isLoading}
+          append={append}
+          isLastMessage={isLastMessage}
+        />
         <Button
           onClick={() => copyToClipboard(chatMessage.content)}
           size="icon"

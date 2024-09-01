@@ -1,4 +1,4 @@
-import { PDFViewer, PdfFocusProvider } from "@llamaindex/pdf-viewer";
+import dynamic from "next/dynamic";
 import { Button } from "../../button";
 import {
   Drawer,
@@ -16,10 +16,22 @@ export interface PdfDialogProps {
   trigger: React.ReactNode;
 }
 
+// Dynamic imports for client-side rendering only
+const PDFViewer = dynamic(
+  () => import("@llamaindex/pdf-viewer").then((module) => module.PDFViewer),
+  { ssr: false },
+);
+
+const PdfFocusProvider = dynamic(
+  () =>
+    import("@llamaindex/pdf-viewer").then((module) => module.PdfFocusProvider),
+  { ssr: false },
+);
+
 export default function PdfDialog(props: PdfDialogProps) {
   return (
     <Drawer direction="left">
-      <DrawerTrigger>{props.trigger}</DrawerTrigger>
+      <DrawerTrigger asChild>{props.trigger}</DrawerTrigger>
       <DrawerContent className="w-3/5 mt-24 h-full max-h-[96%] ">
         <DrawerHeader className="flex justify-between">
           <div className="space-y-2">
