@@ -1,44 +1,19 @@
-// next.config.js
-
 /** @type {import('next').NextConfig} */
+import fs from "fs";
+import withLlamaIndex from "llamaindex/next";
+import webpack from "./webpack.config.mjs";
 
-// Import necessary modules
-import withLlamaIndex from 'llamaindex/next';
-import webpackConfig from './webpack.config.mjs';
+// Read the base configuration from next.config.json
+const nextConfig = JSON.parse(fs.readFileSync("./next.config.json", "utf-8"));
 
-// Define Next.js configuration
-const nextConfig = {
-  // Enable React Strict Mode for highlighting potential problems
-  reactStrictMode: true,
+// Set the custom Webpack configuration
+nextConfig.webpack = webpack;
 
-  // Specify output format; remove 'export' to enable SSR
-  // Use 'standalone' if deploying to platforms like Docker
-  output: 'standalone',
+// Check if the 'output' option is set to 'export' in next.config.json
+if (nextConfig.output === "export") {
+  // Handle the static export scenario
+  console.log("Using static export mode. Make sure to serve the out directory with a static server.");
+}
 
-  // Custom Webpack configuration
-  webpack: (config, { isServer }) => {
-    // Merge custom webpack configurations
-    config = { ...config, ...webpackConfig };
-
-    // Example: Modify config based on whether it's server-side or client-side
-    if (!isServer) {
-      config.resolve.fallback = {
-        ...config.resolve.fallback,
-        fs: false, // Disable 'fs' module on the client-side
-      };
-    }
-
-    // Return the modified config
-    return config;
-  },
-
-  // Additional Next.js configurations can be added here
-  // For example:
-  // env: {
-  //   CUSTOM_ENV_VARIABLE: 'your-value',
-  // },
-};
-
-// Export the configuration wrapped with withLlamaIndex
+// Wrap the configuration with withLlamaIndex to add necessary modifications for llamaindex
 export default withLlamaIndex(nextConfig);
-
