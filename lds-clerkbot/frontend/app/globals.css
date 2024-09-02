@@ -84,11 +84,12 @@
       "calt" 1;
   }
   .background-gradient {
-    background-color: teal;
+    background-color: #004d40; /* Deep teal background */
     background-image: radial-gradient(
-        at 21% 11%,
-        rgba(186, 186, 233, 0.53) 0,
-        transparent 50%
+        at 21% 11%, /* Gradient position */
+        rgba(0, 77, 64, 0.6) 0%, /* Darker teal with slight opacity */
+        rgba(0, 150, 136, 0.4) 50%, /* Lighter teal blending with the base color */
+        transparent 100% /* Fade to transparent */
       ),
       radial-gradient(at 85% 0, hsla(46, 57%, 78%, 0.52) 0, transparent 50%),
       radial-gradient(at 91% 36%, rgba(194, 213, 255, 0.68) 0, transparent 50%),
